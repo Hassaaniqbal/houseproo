@@ -1,0 +1,36 @@
+body
+{
+    background-color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+#container-fluid
+{
+    margin-left: 22rem;
+    margin-right: 22rem;
+    
+}
+
+#navbarNavDropdown
+{
+    justify-content: end;
+}
+
+#main
+{
+    margin-left: 35rem;
+    margin-right: 35rem;
+}
+
+#flexSwitchCheckDefault {
+    transform: scale(1.5); /* Adjust the scale factor as needed */
+    
+  }
+
+#sectionone 
+{
+    display: flex;
+    margin-top: 3rem;
+    align-items: center;
+}
+

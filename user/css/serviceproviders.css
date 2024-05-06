@@ -1,0 +1,30 @@
+body
+{
+    background-color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+#container-fluid
+{
+    margin-left: 22rem;
+    margin-right: 22rem;
+    
+}
+
+#navbarNavDropdown
+{
+    justify-content: end;
+}
+
+
+
+#main
+{
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+#sectionn
+{
+    margin-top: 4rem;
+}

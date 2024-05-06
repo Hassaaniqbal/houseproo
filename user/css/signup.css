@@ -1,0 +1,49 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120vh; /* Adjust this to control the height of the centered section */
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+}
+
+#registerform
+{
+    width: 600px;
+    padding: 2rem;
+}
+
+.green-link {
+    color: #00BF63;
+    
+}
+
+.green-link:hover {
+    color: black; /* Change link color to black on hover */
+}
+
+
+#registerform .btn-primary {
+    background-color: #00BF63; /* Change the button color */
+}
+
+#registerform .btn-primary:hover {
+    background-color: #00BF63; /* Change the button color on hover */
+}
+
+.noaccount {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+    font-weight: 500;
+}
+
+
+#name-error, #lastname-error,
+#number-error, #email-error,
+#password-error, #password-confirm-error
+ {
+    color: #dc3545; /* Red color for error messages */
+    font-size: 0.875rem; /* Adjust font size */
+    margin-top: 0.25rem; /* Add some space between input fields and error messages */
+}

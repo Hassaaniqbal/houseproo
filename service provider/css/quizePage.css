@@ -1,0 +1,64 @@
+body {
+    padding-top: 70px; /* Adjust based on the height of the navbar */
+    overflow: hidden; /* Make the page unscrollable */
+}
+
+body, html {
+    height: 100%;
+}
+
+
+.navbar-brand {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    margin-right: 0 !important; /* Remove right margin */
+}
+
+.navbar-brand .text-success {
+    color: #28a745; /* Green color for go back button */
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 600px; /* Adjust the width to match the textarea width */
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.box-text {
+    margin: 8px 0; /* Add space around the text */
+    font-weight: bold; /* Highlight the text */
+    font-size: large;
+}
+
+textarea {
+    width: 100%; /* Adjust the width to match the box width */
+    height: 120px; /* Adjust the height as needed */
+    margin-top: 10px;
+    border: 1px solid #ccc; /* Add border for clarity */
+    padding: 6px; /* Add padding for aesthetics */
+    margin-top: 50px;
+}
+
+.time-left-box {
+    text-align: center; /* Center the text */
+    width: 200px;
+    background-color: #ffffff; /* White background color */
+    color: #28a745; /* Green text color */
+    padding: 10px; /* Add padding */
+    border: 2px solid #28a745; /* Green border */
+    border-radius: 8px; /* Add border radius */
+    margin: 20px auto 0; /* Center the box vertically and horizontally */
+    margin-top: 60px;
+    font-weight: bold;
+}

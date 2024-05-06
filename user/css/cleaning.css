@@ -1,0 +1,57 @@
+body
+{
+    background-color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+#container-fluid
+{
+    margin-left: 22rem;
+    margin-right: 22rem;
+    
+}
+
+#navbarNavDropdown
+{
+    justify-content: end;
+}
+
+#main
+{
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+#sectiontwoin
+{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    
+}
+#sectiontwo
+{
+    background-color: white;
+}
+
+
+#sectionthreein
+{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    
+}
+#sectionthree
+{
+    background-color: white;
+}
+
+#footerdivoneleft
+{
+    margin-left: 19rem;
+    
+}
+
+#footerdivoneright
+{
+    margin-right: 19rem;
+}

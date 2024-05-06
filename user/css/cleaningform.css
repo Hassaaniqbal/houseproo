@@ -1,0 +1,54 @@
+body
+{
+    background-color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+#container-fluid
+{
+    margin-left: 22rem;
+    margin-right: 22rem;
+    
+}
+
+#navbarNavDropdown
+{
+    justify-content: end;
+}
+
+
+
+#main
+{
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+
+#cleaningform
+{
+    /*width: 600px;*/
+    
+    padding: 1rem;
+    
+}
+
+.green-link {
+    color: #00BF63;
+    
+}
+
+.green-link:hover {
+    color: black; /* Change link color to black on hover */
+}
+
+
+#cleaningform .btn-primary {
+    background-color: #00BF63; /* Change the button color */
+}
+
+#cleaningform .btn-primary:hover {
+    background-color: #00BF63; /* Change the button color on hover */
+}
+
+

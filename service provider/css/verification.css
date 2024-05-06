@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust this to control the height of the centered section */
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+}
+
+#cardd
+{
+    width: 800px;
+    padding: 2rem;
+}
+
+
+#cardd .btn-primary {
+    background-color: #00BF63; /* Change the button color */
+}
+
+#cardd .btn-primary:hover {
+    background-color: #00BF63; /* Change the button color on hover */
+}
+
+
+
+
+
+
+#carddd
+{
+    width: 900px;
+    padding: 1rem;
+}
+
+#carddd .btn-primary {
+    background-color: #00BF63; /* Change the button color */
+}
+
+#carddd .btn-primary:hover {
+    background-color: #00BF63; /* Change the button color on hover */
+}
+
+
+.green-link {
+    color: #00BF63;
+    
+}
+
+.green-link:hover {
+    color: black; /* Change link color to black on hover */
+}
+
+
+#logout {
+    position: fixed;
+    bottom: 20px; /* Adjust this value to your preference */
+    right: 20px; /* Adjust this value to your preference */
+    z-index: 9999; /* Ensure the button appears on top of other content */
+  }
+  
+

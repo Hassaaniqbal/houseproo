@@ -1,0 +1,28 @@
+#cardddd
+{
+    width: 1000px;
+}
+
+
+#cardddd
+{
+    width: 900px;
+    padding: 1rem;
+}
+
+#cardddd .btn-primary {
+    background-color: #00BF63; /* Change the button color */
+}
+
+#cardddd .btn-primary:hover {
+    background-color: #00BF63; /* Change the button color on hover */
+}
+
+.green-link {
+    color: #00BF63;
+    
+}
+
+.green-link:hover {
+    color: black; /* Change link color to black on hover */
+}

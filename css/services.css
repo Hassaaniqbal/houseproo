@@ -1,0 +1,59 @@
+body
+{
+    background-color: white;
+    font-family:'Poppins', sans-serif;
+}
+
+#container-fluid
+{
+    margin-left: 22rem;
+    margin-right: 22rem;
+    
+}
+
+#navbarNavDropdown
+{
+    justify-content: end;
+}
+
+#sectiontwo
+{
+    background-color: white;
+}
+
+#sectiontwoin
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-left: 22rem;
+    margin-right: 22rem;
+}
+#sectiontwopar
+{
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+
+#imgg
+{
+    transition: transform 0.3s ease-in-out;
+
+}
+#imgg:hover
+{
+    opacity: 0.9;
+}
+
+#footerdivoneleft
+{
+    margin-left: 19rem;
+    
+}
+
+#footerdivoneright
+{
+    margin-right: 19rem;
+}
+
